@@ -1,0 +1,3 @@
+# DealScope Coding Agent Instructions
+
+Read `DEALSCOPE-AUTONOMOUS-BUILD-HANDOFF.md` completely before editing code. It is the project source of truth. Execute phases 0–4 with minimal interruptions, making reversible engineering decisions independently. Build a truthful, tested MVP first; never fake live offers, source access, price verification, shipping charges, or test results. Only the user's Mistral API key is required for AI. Keep it server-side and support quota failures. Respect website terms and access controls. Run lint, typecheck, tests, and production build before release claims. Maintain documentation and report evidence, gaps, and exact next actions. Do not spend money or publish externally without appropriate authorization.
